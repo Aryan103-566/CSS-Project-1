@@ -1,0 +1,39 @@
+h1 {
+    font-family: arial, Helvetica, sans-serif;
+    color: #F4F4F4;
+    background-color: #4CE214;
+    text-align: center;
+    font-size: 60px;
+    word-spacing: 5px;
+    letter-spacing: 5px;
+}
+#Heading {
+    color: black;
+    font-weight: 800;
+}
+#Para {
+    color: #4CE214;
+    font-size: 30px;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+#Para2 {
+    color: #4CE214;
+}
+a {
+    background-color: #4CE214;
+    width: 60px;
+    height: 40px;
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    font-weight: 800;
+    font-family: arial;
+    border-radius: 20px;
+  }
